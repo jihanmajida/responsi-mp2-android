@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">0632_ResponsiMobile</string>
+    <string name="Mail">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="btLogin">Login</string>
+    <string name="fpClick">Forgot Password? Click</string>
+    <string name="here">here</string>
+    <string name="noAcc">Haven\'t Account? Register</string>
+    <string name="splash">Responsi Mobile</string>
+</resources>
